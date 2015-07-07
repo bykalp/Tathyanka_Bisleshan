@@ -1,0 +1,148 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Tathyanka Bishleshan</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="homepage">
+		<div id="page-wrapper">
+
+			
+            <!-- Header -->
+				<div id="header">
+
+					<!-- Inner -->
+						<div class="inner">
+							<header>
+								<h1><a href="index.html" id="logo">Tathyanka Bishleshan</a></h1>
+								<hr />
+                                
+                                <style>
+                                    #namanyay-search-btn {
+                                    background:#0099ff;
+                                    color:white;
+                                    font: 'trebuchet ms', trebuchet;
+                                    padding:7px 28px;
+                                    border-radius:0px 0px 0px 0px;
+                                    -moz-border-radius:0 0px 0px 0;
+                                    -webkit-border-radius:0 0px 0px 0;
+                                    -o-border-radius:0px 0px 0px 0px;
+                                    border:0 none;
+                                    font-weight:bold;
+                                    margin-top: 20px;
+                                    margin-left: 3px;
+                                    }
+
+                                    #namanyay-search-box {
+                                    background: #eee;
+                                    padding:13px;
+                                     border-radius:0px 0px 0px 0px;
+                                    -moz-border-radius:10px 0 0 0px;
+                                    -webkit-border-radius:0px 0px 0px 0px;
+                                    -o-border-radius:10px 0 0 10px;
+                                    border:0 none;
+                                    margin-left: 4px;
+                                    width:800px;
+                                     }
+
+                                 </style>
+
+
+<form id="searchthis" action="/search" style="display:inline;" method="get">
+<!-- Search box for blogger by Namanyay Goel //-->
+<input id="namanyay-search-box" name="q" size="80" type="text" placeholder=" Search Anything !!"/>
+<input id="namanyay-search-btn" value="Search" type="submit"/>
+</form>
+                        </header>
+                            
+                            
+							<!-- <footer>
+								<a href="#banner" class="button circled scrolly">Search</a>
+							</footer>  --> 
+						</div>
+
+                    
+                    
+                    
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html">All</a></li>
+								<li>
+								<a href="index.html">Name</a>
+								</li>
+								<li><a href="left-sidebar.html">Organization</a></li>
+								<li><a href="right-sidebar.html">Places</a></li>
+								<li><a href="no-sidebar.html">Miscs</a></li>
+							</ul>
+						</nav>
+
+				</div>
+
+            
+            
+			<!-- Banner -->
+				<section id="banner">
+					<header>
+						<h2>Hi. You're looking at <strong>Tathyanka Bishleshan</strong>.</h2>
+						<p>
+							-- Site Under Construction --						</p>
+					</header>
+				</section>
+
+			
+
+			<!-- Footer -->
+				<div id="footer">
+						<div class="row">
+							<div class="12u">
+
+								<!-- Contact -->
+									<section class="contact">
+										<header>
+											<h3>Contact?</h3>
+										</header>
+										<p>Use following Social Networks to connect with us.</p>
+										<ul class="icons">
+											<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+											<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+											<li><a href="#" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+										</ul>
+									</section>
+
+								<!-- Copyright -->
+									<div class="copyright">
+										<ul class="menu">
+											<li>&copy; Tathyanka Bishleshan. All rights reserved.</li><li>Design: 
+                                            <a href="http://the9geek.com">GUNNER</a></li>
+										</ul>
+									</div>
+
+							</div>
+
+						</div>
+				
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.onvisible.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
